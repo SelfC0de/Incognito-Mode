@@ -7,7 +7,7 @@ Incognito Mode
 Incognito Mode by SelfCode 🛡️
 Описание программы 🌟
 Incognito Mode by SelfCode — это стильное и удобное приложение для управления режимом инкогнито в популярных браузерах:
-Google Chrome 🚀 https://www.google.com/chrome/static/images/chrome-logo-m100.svg](https://www.google.com/chrome/static/images/favicons/favicon-16x16.png
+Google Chrome 🚀 [[https://www.google.com/chrome/static/images/chrome-logo-m100.svg](https://www.google.com/chrome/static/images/favicons/favicon-16x16.png](https://www.google.com/chrome/static/images/favicons/favicon-16x16.png)](https://www.google.com/chrome/static/images/favicons/favicon-16x16.png)
 Microsoft Edge 🌍 ,
 Яндекс Браузер 🇷🇺. 
 
